@@ -75,3 +75,14 @@ Improve motor control so speed stays more consistent under load
 Build a simple mount or frame so the parts are more stable and organized
 Improve ultrasonic readings so they are less jumpy or noisy
 Add support for controlling more than one motor
+
+Demo Videos: 
+
+- Motor Speed Control Test: 
+https://youtube.com/shorts/wvCIU8t1eRg?feature=share 
+
+- Ultrasonic Sensor Motor Stop: 
+https://youtu.be/GDDHGd6rWX8
+
+- Motor Limit Switch Test:
+https://youtube.com/shorts/DoFICgwqdN4?feature=share
